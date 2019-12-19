@@ -42,9 +42,9 @@ As always, you will be submitting a technical report and a presentation. **You m
 
 ## Submission
 
-Materials must be submitted by the beginning of class on **Friday, June 28**.
+Materials must be submitted by the beginning of class on **Friday, January 17**.
 
-The last day for the Kaggle competition will be **Friday, June 28**.
+The last day for the Kaggle competition will be **Friday, January 17**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
