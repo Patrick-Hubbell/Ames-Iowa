@@ -1,4 +1,6 @@
+## Data Dictionary
 |Column Name|Type|Description|Vaiable: Description of Variable|
+|---|---|---|---|
 |SalePrice|Int|The property's sale price in dollars.|**¯\\_(ツ)_/¯**|
 |MSSubClass|Int|The building class|
                     - 20 : 1-STORY 1946 & NEWER ALL STYLES
